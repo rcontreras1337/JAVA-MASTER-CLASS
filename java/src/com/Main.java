@@ -1,5 +1,7 @@
 package com;
 
+import com.ejercicios.ExercisesGettingStarted;
+
 public class Main {
     public static void main(String[] args) {
         //  PRIMITIVOS
@@ -13,10 +15,12 @@ public class Main {
         // Guiones bajos para visibilizar mejor los numeros declarados
         // Sirve con varibels decimales tambien
         int amount = 1_000_000_008;
-        
-
-
-
-
+        // Ejericicios
+        ExercisesGettingStarted.numberOne();
+        ExercisesGettingStarted.numberTwo();
+        ExercisesGettingStarted.numberThree();
+        ExercisesGettingStarted.numberFour();
+        ExercisesGettingStarted.numberFive();
+        ExercisesGettingStarted.numberSix();
     }
 }
