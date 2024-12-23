@@ -1,6 +1,7 @@
 package com;
 
 import com.ejercicios.ExercisesGettingStarted;
+import com.loops.Loops;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,5 +23,13 @@ public class Main {
         ExercisesGettingStarted.numberFour();
         ExercisesGettingStarted.numberFive();
         ExercisesGettingStarted.numberSix();
-    }
+        // LOOPS
+        Loops.ejercicioUno();
+        Loops.ejercicioDos();
+        Loops.ejercicioTres();
+        Loops.ejercicioCuatro();
+        Loops.ejercicioCinco();
+        Loops.ejercicioSeis();
+        Loops.ejercicioSiete();
+}
 }
